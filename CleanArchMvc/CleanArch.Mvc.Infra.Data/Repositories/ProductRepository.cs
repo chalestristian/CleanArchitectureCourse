@@ -5,11 +5,11 @@ using Microsoft.EntityFrameworkCore;
 
 namespace CleanArch.Mvc.Infra.Data.Repositories
 {
-    public class ProductyRepository : IProductRepository
+    public class ProductRepository : IProductRepository
     {
 
         ApplicationDbContext _productContext;
-        public ProductyRepository(ApplicationDbContext context)
+        public ProductRepository(ApplicationDbContext context)
         {
 
         _productContext = context;
