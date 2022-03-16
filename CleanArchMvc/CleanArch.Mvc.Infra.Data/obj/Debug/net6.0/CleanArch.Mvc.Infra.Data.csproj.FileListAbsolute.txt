@@ -1,0 +1,17 @@
+P:\CleanArchitectureCourse\CleanArchMvc\CleanArch.Mvc.Infra.Data\bin\Debug\net6.0\CleanArch.Mvc.Infra.Data.deps.json
+P:\CleanArchitectureCourse\CleanArchMvc\CleanArch.Mvc.Infra.Data\bin\Debug\net6.0\CleanArch.Mvc.Infra.Data.runtimeconfig.json
+P:\CleanArchitectureCourse\CleanArchMvc\CleanArch.Mvc.Infra.Data\bin\Debug\net6.0\CleanArch.Mvc.Infra.Data.dll
+P:\CleanArchitectureCourse\CleanArchMvc\CleanArch.Mvc.Infra.Data\bin\Debug\net6.0\CleanArch.Mvc.Infra.Data.pdb
+P:\CleanArchitectureCourse\CleanArchMvc\CleanArch.Mvc.Infra.Data\bin\Debug\net6.0\CleanArchMvc.Domain.dll
+P:\CleanArchitectureCourse\CleanArchMvc\CleanArch.Mvc.Infra.Data\bin\Debug\net6.0\CleanArchMvc.Domain.pdb
+P:\CleanArchitectureCourse\CleanArchMvc\CleanArch.Mvc.Infra.Data\obj\Debug\net6.0\CleanArch.Mvc.Infra.Data.csproj.AssemblyReference.cache
+P:\CleanArchitectureCourse\CleanArchMvc\CleanArch.Mvc.Infra.Data\obj\Debug\net6.0\CleanArch.Mvc.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+P:\CleanArchitectureCourse\CleanArchMvc\CleanArch.Mvc.Infra.Data\obj\Debug\net6.0\CleanArch.Mvc.Infra.Data.AssemblyInfoInputs.cache
+P:\CleanArchitectureCourse\CleanArchMvc\CleanArch.Mvc.Infra.Data\obj\Debug\net6.0\CleanArch.Mvc.Infra.Data.AssemblyInfo.cs
+P:\CleanArchitectureCourse\CleanArchMvc\CleanArch.Mvc.Infra.Data\obj\Debug\net6.0\CleanArch.Mvc.Infra.Data.csproj.CoreCompileInputs.cache
+P:\CleanArchitectureCourse\CleanArchMvc\CleanArch.Mvc.Infra.Data\obj\Debug\net6.0\CleanArch.Mvc.Infra.Data.csproj.CopyComplete
+P:\CleanArchitectureCourse\CleanArchMvc\CleanArch.Mvc.Infra.Data\obj\Debug\net6.0\CleanArch.Mvc.Infra.Data.dll
+P:\CleanArchitectureCourse\CleanArchMvc\CleanArch.Mvc.Infra.Data\obj\Debug\net6.0\refint\CleanArch.Mvc.Infra.Data.dll
+P:\CleanArchitectureCourse\CleanArchMvc\CleanArch.Mvc.Infra.Data\obj\Debug\net6.0\CleanArch.Mvc.Infra.Data.pdb
+P:\CleanArchitectureCourse\CleanArchMvc\CleanArch.Mvc.Infra.Data\obj\Debug\net6.0\CleanArch.Mvc.Infra.Data.genruntimeconfig.cache
+P:\CleanArchitectureCourse\CleanArchMvc\CleanArch.Mvc.Infra.Data\obj\Debug\net6.0\ref\CleanArch.Mvc.Infra.Data.dll
