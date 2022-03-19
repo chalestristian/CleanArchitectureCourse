@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "SKxiK1V1j4hI+GOHY8QF9lP2y5rK7Ka0G5SDZIU2iZ3G41m95kPbSHI+Kh3V7fP38px1t4CPS5y/tF63FRKgpQ==",
+  "dgSpecHash": "8p6FO/CsRBHIeTAnTjrl4gDpKxOmzD8kqrrWmkO/nGyzBKmWMRKUkCkIGaMoOXd/+1EBwAQHzAG5UnyUW17DlA==",
   "success": true,
   "projectFilePath": "P:\\CleanArchitectureCourse\\CleanArchMvc\\CleanArch.Mvc.Infra.IoC\\CleanArch.Mvc.Infra.IoC.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Thale\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\Thale\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
-    "C:\\Users\\Thale\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Thale\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Thale\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\Thale\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
     "C:\\Users\\Thale\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.3\\microsoft.entityframeworkcore.6.0.3.nupkg.sha512",

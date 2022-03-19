@@ -18,7 +18,7 @@ namespace CleanArch.Mvc.Infra.Data.Context
 
             var optionsBuilder = new DbContextOptionsBuilder<ApplicationDbContext>();
 
-            optionsBuilder.UseSqlServer("DefaultConnection");
+            optionsBuilder.UseSqlServer("Data Source=DESKTOP-L4KVDVA;Initial Catalog=CleanArchMcvDb;Integrated Security=True");
 
             return new ApplicationDbContext(optionsBuilder.Options);
 
