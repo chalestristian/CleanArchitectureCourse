@@ -1,0 +1,6 @@
+P:\CleanArchitectureCourse\CleanArchMvc\CleanArchMvc.Domain.Tests\bin\Debug\net5.0\CoverletSourceRootsMapping
+P:\CleanArchitectureCourse\CleanArchMvc\CleanArchMvc.Domain.Tests\obj\Debug\net5.0\CleanArchMvc.Domain.Tests.csproj.AssemblyReference.cache
+P:\CleanArchitectureCourse\CleanArchMvc\CleanArchMvc.Domain.Tests\obj\Debug\net5.0\CleanArchMvc.Domain.Tests.GeneratedMSBuildEditorConfig.editorconfig
+P:\CleanArchitectureCourse\CleanArchMvc\CleanArchMvc.Domain.Tests\obj\Debug\net5.0\CleanArchMvc.Domain.Tests.AssemblyInfoInputs.cache
+P:\CleanArchitectureCourse\CleanArchMvc\CleanArchMvc.Domain.Tests\obj\Debug\net5.0\CleanArchMvc.Domain.Tests.AssemblyInfo.cs
+P:\CleanArchitectureCourse\CleanArchMvc\CleanArchMvc.Domain.Tests\obj\Debug\net5.0\CleanArchMvc.Domain.Tests.csproj.CoreCompileInputs.cache

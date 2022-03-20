@@ -1,19 +1,18 @@
-﻿using CleanArch.Mvc.Infra.Data.Context;
-using CleanArchMvc.Domain.Entities;
+﻿using CleanArchMvc.Domain.Entities;
 using CleanArchMvc.Domain.Interfaces;
+using CleanArchMvc.Infra.Data.Context;
 using Microsoft.EntityFrameworkCore;
+using System.Collections.Generic;
+using System.Threading.Tasks;
 
-namespace CleanArch.Mvc.Infra.Data.Repositories
+namespace CleanArchMvc.Infra.Data.Repositories
 {
     public class ProductRepository : IProductRepository
     {
-
-        ApplicationDbContext _productContext;
+        private ApplicationDbContext _productContext;
         public ProductRepository(ApplicationDbContext context)
         {
-
-        _productContext = context;
-
+            _productContext = context;
         }
 
         public async Task<Product> CreateAsync(Product product)
@@ -25,19 +24,19 @@ namespace CleanArch.Mvc.Infra.Data.Repositories
 
         public async Task<Product> GetByIdAsync(int? id)
         {
-            return await _productContext.Products.FindAsync(id);
+            return await _productContext.Products.Include(c => c.Category)
+               .SingleOrDefaultAsync(p => p.Id == id);
         }
 
-        public async Task<IEnumerable<Product>> GetProductAsync()
-        {
-            return await _productContext.Products.ToListAsync();
-        }
-
-        //eager load
         public async Task<Product> GetProductCategoryAsync(int? id)
         {
             return await _productContext.Products.Include(c => c.Category)
                 .SingleOrDefaultAsync(prop => prop.Id == id);
+        }
+
+        public async Task<IEnumerable<Product>> GetProductsAsync()
+        {
+            return await _productContext.Products.ToListAsync();
         }
 
         public async Task<Product> RemoveAsync(Product product)
@@ -47,7 +46,7 @@ namespace CleanArch.Mvc.Infra.Data.Repositories
             return product;
         }
 
-        public async  Task<Product> UpdateAsync(Product product)
+        public async Task<Product> UpdateAsync(Product product)
         {
             _productContext.Update(product);
             await _productContext.SaveChangesAsync();

@@ -1,0 +1,5 @@
+P:\CleanArchitectureCourse\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net5.0\CleanArchMvc.Application.csproj.AssemblyReference.cache
+P:\CleanArchitectureCourse\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net5.0\CleanArchMvc.Application.GeneratedMSBuildEditorConfig.editorconfig
+P:\CleanArchitectureCourse\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net5.0\CleanArchMvc.Application.AssemblyInfoInputs.cache
+P:\CleanArchitectureCourse\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net5.0\CleanArchMvc.Application.AssemblyInfo.cs
+P:\CleanArchitectureCourse\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net5.0\CleanArchMvc.Application.csproj.CoreCompileInputs.cache

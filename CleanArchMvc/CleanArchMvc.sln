@@ -7,13 +7,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArchMvc.Domain", "Clea
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArchMvc.Application", "CleanArchMvc.Application\CleanArchMvc.Application.csproj", "{7F23BE92-3B40-45B1-A98A-DBACFC8836DB}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArch.Mvc.Infra.Data", "CleanArch.Mvc.Infra.Data\CleanArch.Mvc.Infra.Data.csproj", "{AE0D49D8-D27B-409D-88C7-1A4D7C51750E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArchMvc.Infra.Data", "CleanArch.Mvc.Infra.Data\CleanArchMvc.Infra.Data.csproj", "{AE0D49D8-D27B-409D-88C7-1A4D7C51750E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArch.Mvc.Infra.IoC", "CleanArch.Mvc.Infra.IoC\CleanArch.Mvc.Infra.IoC.csproj", "{98CCEF9B-AC5A-472A-9DC6-F78C95A8AF10}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArchMvc.Infra.IoC", "CleanArch.Mvc.Infra.IoC\CleanArchMvc.Infra.IoC.csproj", "{98CCEF9B-AC5A-472A-9DC6-F78C95A8AF10}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArch.Mvc.WebUI", "CleanArch.Mvc.WebUI\CleanArch.Mvc.WebUI.csproj", "{66A63E75-BC5F-4E82-BB5A-3E668718B151}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArchMvc.WebUI", "CleanArch.Mvc.WebUI\CleanArchMvc.WebUI.csproj", "{66A63E75-BC5F-4E82-BB5A-3E668718B151}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchMvc.Domain.Tests", "CleanArchMvc.Domain.Tests\CleanArchMvc.Domain.Tests.csproj", "{717C94CB-0FE1-4AC6-9CA1-6009BFBC483D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArchMvc.Domain.Tests", "CleanArchMvc.Domain.Tests\CleanArchMvc.Domain.Tests.csproj", "{717C94CB-0FE1-4AC6-9CA1-6009BFBC483D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,14 +1,12 @@
 ﻿using CleanArchMvc.Domain.Entities;
 using Microsoft.EntityFrameworkCore;
 
-namespace CleanArch.Mvc.Infra.Data.Context
+namespace CleanArchMvc.Infra.Data.Context
 {
     public class ApplicationDbContext : DbContext
     {
-        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
-            : base(options)
+        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
         { }
-
         public DbSet<Product> Products { get; set; }
         public DbSet<Category> Categories { get; set; }
 

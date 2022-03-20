@@ -1882,9 +1882,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "P:\\CleanArchitectureCourse\\CleanArchMvc\\CleanArch.Mvc.Infra.Data\\CleanArch.Mvc.Infra.Data.csproj",
-      "projectName": "CleanArch.Mvc.Infra.Data",
-      "projectPath": "P:\\CleanArchitectureCourse\\CleanArchMvc\\CleanArch.Mvc.Infra.Data\\CleanArch.Mvc.Infra.Data.csproj",
+      "projectUniqueName": "P:\\CleanArchitectureCourse\\CleanArchMvc\\CleanArch.Mvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj",
+      "projectName": "CleanArchMvc.Infra.Data",
+      "projectPath": "P:\\CleanArchitectureCourse\\CleanArchMvc\\CleanArch.Mvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj",
       "packagesPath": "C:\\Users\\Thale\\.nuget\\packages\\",
       "outputPath": "P:\\CleanArchitectureCourse\\CleanArchMvc\\CleanArch.Mvc.Infra.Data\\obj\\",
       "projectStyle": "PackageReference",

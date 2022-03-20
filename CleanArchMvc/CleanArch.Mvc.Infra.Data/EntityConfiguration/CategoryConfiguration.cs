@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CleanArch.Mvc.Infra.Data.EntityConfiguration
+namespace CleanArchMvc.Infra.Data.EntityConfiguration
 {
     public class CategoryConfiguration : IEntityTypeConfiguration<Category>
     {
