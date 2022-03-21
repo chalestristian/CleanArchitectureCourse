@@ -10,7 +10,7 @@ namespace CleanArchMvc.Domain.Tests
         [Fact]
         public void CreateProduct_WithValidParameters_ResultObjectValidState()
         {
-            Action action = () => new Product(1, "Product Name", "Product Description", 9.99m,99, "product image");
+            Action action = () => new Product(1, "Product Name", "Product Description", 9.99m, 99, "product image");
             action.Should()
                 .NotThrow<CleanArchMvc.Domain.Validation.DomainExceptionValidation>();
         }

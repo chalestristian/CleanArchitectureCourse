@@ -37,7 +37,6 @@ namespace CleanArchMvc.WebUI.Controllers
 
         }
 
-
         [HttpGet()]
         public async Task<IActionResult> Edit(int? id)
         {
@@ -63,7 +62,8 @@ namespace CleanArchMvc.WebUI.Controllers
                 catch (Exception)
                 {
                     throw;
-                }                return RedirectToAction(nameof(Index));
+                }
+                return RedirectToAction(nameof(Index));
             }
             return View(categoryDto);
         }

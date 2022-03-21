@@ -1,6 +1,4 @@
 ﻿using CleanArchMvc.Domain.Validation;
-using System;
-using System.Collections.Generic;
 
 namespace CleanArchMvc.Domain.Entities
 {
@@ -33,7 +31,6 @@ namespace CleanArchMvc.Domain.Entities
 
             DomainExceptionValidation.When(name.Length < 3,
                "Invalid name, too short, minimum 3 characters");
-
             Name = name;
         }
     }
