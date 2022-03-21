@@ -37,7 +37,7 @@ namespace CleanArchMvc.Application.DTOs
         [DisplayName("Product Image")]
         public string Image { get; set; }
 
-        public Category Category { get; set; }
+        public Category? Category { get; set; }  // Sem o ?, o create products não funciona.
 
         [DisplayName("Categories")]
         public int CategoryId { get; set; }

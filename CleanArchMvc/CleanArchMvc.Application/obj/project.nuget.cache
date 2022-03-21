@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "PTSjrFnbvi7onvDZpbdOCMvp4AEcKYZ94h0aJ4+nXNHKzd2W3lRR0B/0tuCB5CiPvnLngX0d94kp22TV5d1bAQ==",
+  "dgSpecHash": "zjGC046d2lZOpTaB0Fl+u0SbCTfbusfq654HgFEdmVExG9Mm+cbk8AcvfaJrk07+gCCI0ug3isRIJFLA7QidIQ==",
   "success": true,
   "projectFilePath": "P:\\CleanArchitectureCourse\\CleanArchMvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Thale\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\Thale\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\Thale\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
     "C:\\Users\\Thale\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
   ],
   "logs": []

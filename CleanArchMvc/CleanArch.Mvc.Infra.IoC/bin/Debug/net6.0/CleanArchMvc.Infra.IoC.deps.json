@@ -537,7 +537,8 @@
       "CleanArchMvc.Application/1.0.0": {
         "dependencies": {
           "AutoMapper": "11.0.1",
-          "CleanArchMvc.Domain": "1.0.0"
+          "CleanArchMvc.Domain": "1.0.0",
+          "MediatR": "10.0.1"
         },
         "runtime": {
           "CleanArchMvc.Application.dll": {}
