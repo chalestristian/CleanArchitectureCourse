@@ -12,6 +12,7 @@ P:\CleanArchitectureCourse\CleanArchMvc\CleanArch.Mvc.WebUI\bin\Debug\net6.0\Hum
 P:\CleanArchitectureCourse\CleanArchMvc\CleanArch.Mvc.WebUI\bin\Debug\net6.0\MediatR.dll
 P:\CleanArchitectureCourse\CleanArchMvc\CleanArch.Mvc.WebUI\bin\Debug\net6.0\MediatR.Contracts.dll
 P:\CleanArchitectureCourse\CleanArchMvc\CleanArch.Mvc.WebUI\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+P:\CleanArchitectureCourse\CleanArchMvc\CleanArch.Mvc.WebUI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 P:\CleanArchitectureCourse\CleanArchMvc\CleanArch.Mvc.WebUI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
 P:\CleanArchitectureCourse\CleanArchMvc\CleanArch.Mvc.WebUI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
 P:\CleanArchitectureCourse\CleanArchMvc\CleanArch.Mvc.WebUI\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
@@ -30,7 +31,11 @@ P:\CleanArchitectureCourse\CleanArchMvc\CleanArch.Mvc.WebUI\bin\Debug\net6.0\Mic
 P:\CleanArchitectureCourse\CleanArchMvc\CleanArch.Mvc.WebUI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
 P:\CleanArchitectureCourse\CleanArchMvc\CleanArch.Mvc.WebUI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 P:\CleanArchitectureCourse\CleanArchMvc\CleanArch.Mvc.WebUI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+P:\CleanArchitectureCourse\CleanArchMvc\CleanArch.Mvc.WebUI\bin\Debug\net6.0\Microsoft.OpenApi.dll
 P:\CleanArchitectureCourse\CleanArchMvc\CleanArch.Mvc.WebUI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+P:\CleanArchitectureCourse\CleanArchMvc\CleanArch.Mvc.WebUI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+P:\CleanArchitectureCourse\CleanArchMvc\CleanArch.Mvc.WebUI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+P:\CleanArchitectureCourse\CleanArchMvc\CleanArch.Mvc.WebUI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 P:\CleanArchitectureCourse\CleanArchMvc\CleanArch.Mvc.WebUI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
 P:\CleanArchitectureCourse\CleanArchMvc\CleanArch.Mvc.WebUI\bin\Debug\net6.0\System.Drawing.Common.dll
 P:\CleanArchitectureCourse\CleanArchMvc\CleanArch.Mvc.WebUI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
@@ -63,6 +68,7 @@ P:\CleanArchitectureCourse\CleanArchMvc\CleanArch.Mvc.WebUI\obj\Debug\net6.0\Cle
 P:\CleanArchitectureCourse\CleanArchMvc\CleanArch.Mvc.WebUI\obj\Debug\net6.0\CleanArchMvc.WebUI.AssemblyInfoInputs.cache
 P:\CleanArchitectureCourse\CleanArchMvc\CleanArch.Mvc.WebUI\obj\Debug\net6.0\CleanArchMvc.WebUI.AssemblyInfo.cs
 P:\CleanArchitectureCourse\CleanArchMvc\CleanArch.Mvc.WebUI\obj\Debug\net6.0\CleanArchMvc.WebUI.csproj.CoreCompileInputs.cache
+P:\CleanArchitectureCourse\CleanArchMvc\CleanArch.Mvc.WebUI\obj\Debug\net6.0\CleanArchMvc.WebUI.MvcApplicationPartsAssemblyInfo.cs
 P:\CleanArchitectureCourse\CleanArchMvc\CleanArch.Mvc.WebUI\obj\Debug\net6.0\CleanArchMvc.WebUI.MvcApplicationPartsAssemblyInfo.cache
 P:\CleanArchitectureCourse\CleanArchMvc\CleanArch.Mvc.WebUI\obj\Debug\net6.0\CleanArchMvc.WebUI.RazorAssemblyInfo.cache
 P:\CleanArchitectureCourse\CleanArchMvc\CleanArch.Mvc.WebUI\obj\Debug\net6.0\CleanArchMvc.WebUI.RazorAssemblyInfo.cs
